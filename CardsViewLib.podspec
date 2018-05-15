@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CardsViewLib'
-  s.version          = '0.2.0'
+  s.version          = '0.3.0'
   s.summary          = 'Simple scrolling card control package.'
 
 # This description is used to generate tags and improve search results.
@@ -30,7 +30,7 @@ Simple scrolling card control package can be used for banners or tabs.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'CardsViewLib/Classes/**/*'
+  s.source_files = 'CardsViewLib/Classes/*'
   
   # s.resource_bundles = {
   #   'CardsViewLib' => ['CardsViewLib/Assets/*.png']
