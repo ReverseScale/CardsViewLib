@@ -30,7 +30,7 @@
 /* Begin PBXFileReference section */
 		228BE0D8845DC3039852BF2D /* Pods_CardsViewLib_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CardsViewLib_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D4F2106939D1A22A34026FE /* Pods-CardsViewLib_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CardsViewLib_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CardsViewLib_Tests/Pods-CardsViewLib_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		42CC8F75C8E8BF6313B13EB6 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		42CC8F75C8E8BF6313B13EB6 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* CardsViewLib_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CardsViewLib_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -43,10 +43,10 @@
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		7765B179B8F233A6C58C17EC /* Pods-CardsViewLib_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CardsViewLib_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-CardsViewLib_Example/Pods-CardsViewLib_Example.release.xcconfig"; sourceTree = "<group>"; };
 		8554EE4D1790B239DF254760 /* Pods_CardsViewLib_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CardsViewLib_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		971BDAA0EAF47349D17362BC /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		971BDAA0EAF47349D17362BC /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		A2C4D0802CEABFE970A92E95 /* Pods-CardsViewLib_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CardsViewLib_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-CardsViewLib_Tests/Pods-CardsViewLib_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		E954943EA5394A8E5364924E /* Pods-CardsViewLib_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CardsViewLib_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CardsViewLib_Example/Pods-CardsViewLib_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		FD78BDE174EC9EAA4E6B1524 /* CardsViewLib.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = CardsViewLib.podspec; path = ../CardsViewLib.podspec; sourceTree = "<group>"; };
+		FD78BDE174EC9EAA4E6B1524 /* CardsViewLib.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = CardsViewLib.podspec; path = ../CardsViewLib.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
